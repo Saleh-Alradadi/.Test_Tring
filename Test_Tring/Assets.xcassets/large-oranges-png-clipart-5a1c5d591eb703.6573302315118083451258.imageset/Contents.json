@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "large-oranges-png-clipart-5a1c5d591eb703.6573302315118083451258@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "large-oranges-png-clipart-5a1c5d591eb703.6573302315118083451258@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "large-oranges-png-clipart-5a1c5d591eb703.6573302315118083451258@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

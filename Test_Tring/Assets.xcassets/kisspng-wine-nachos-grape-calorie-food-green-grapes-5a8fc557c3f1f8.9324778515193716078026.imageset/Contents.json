@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "kisspng-wine-nachos-grape-calorie-food-green-grapes-5a8fc557c3f1f8.9324778515193716078026@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "kisspng-wine-nachos-grape-calorie-food-green-grapes-5a8fc557c3f1f8.9324778515193716078026@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "kisspng-wine-nachos-grape-calorie-food-green-grapes-5a8fc557c3f1f8.9324778515193716078026@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
